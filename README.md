@@ -48,6 +48,9 @@ If you feel I've missed something or want to suggest a script for me to create p
 ## Parallax Camera System
 * [ParallaxCamera](https://github.com/PycryptScripts/UnityScripts/tree/master/ParallaxCamera) - Layered parallax camera
 
+# Documentation
+You can find all detailed documentation of a specific script in its respected parent folder. I've done this so the main README doesn't get over cluttered and confusing. 😎
+
 # Our Community
 
 **The Ominous Tales of Jay** is a 2d atmospheric game I've been working on that's in heavy development, if you'd like to come hangout and chill with me in my Discord server while I work on it then please feel free to drop by, you might even pickup on some things that's not showcased here! [Official Discord Server](https://discord.gg/GPMyUwE)
